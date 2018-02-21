@@ -1,2 +1,4 @@
 # py.checkio
-https://py.checkio.org学习
+https://py.checkio.org   
+python3学习积累
+
